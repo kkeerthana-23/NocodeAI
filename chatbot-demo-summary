@@ -1,0 +1,17 @@
+# Chatbot Demo (No-Code)
+
+## Tools Used
+- ChatGPT (custom GPT)
+- Typeform (for front-end Q&A)
+- Zapier (to pass user responses to GPT)
+
+## Goal
+Simulate a virtual assistant that helps prospects through product education.
+
+## Outcome
+- Worked well for basic questions
+- Needed clearer conversation flows
+
+## Next Steps
+- Try Voiceflow or Landbot
+- Improve prompt engineering
