@@ -1,48 +1,47 @@
-# 🧠 AI in Fintech – Explorations by KK
+# 🤖 My AI Projects & Learning Hub
 
-Hi! I'm a fintech account manager exploring how artificial intelligence can drive smarter solutions for clients, processes, and products.
+Welcome to my personal AI workspace — a curated, practical collection of tools, concepts, and use cases I'm exploring to better understand and apply artificial intelligence in real-world business contexts.
 
-This repository is a personal learning journal and resource hub. It’s designed to track what I learn, tools I try, and how I apply AI concepts—especially in non-technical, business-first contexts.
-
-I’m not a developer—but I’m hands-on with AI tools, curious about real use cases, and experimenting with no-code solutions.
-
----
-
-## 📁 Contents
-
-### 🧠 Learning & Concepts
-- [Intro to AI](intro-to-ai.md) – A plain-English summary of what AI is and why it matters
-- [AI Tools I'm Exploring](ai-tools.md) – Tools I've tried or bookmarked to test
-- [Understanding AI Agents](ai-agents.md) – What AI agents are and how they work
+I’m an account manager in fintech, and this repo is where I:
+- Try out AI tools that simplify work
+- Track new tech like AI agents
+- Capture use cases across operations, onboarding, and communication
+- Stay sharp in a fast-changing space 🚀
 
 ---
 
-### 💼 Business Use Cases
-- [AI in Client Onboarding](use-cases/ai-in-client-onboarding.md) – Streamlining onboarding with AI
-- [AI in Support Automation](use-cases/ai-for-support-automation.md) – Reducing manual support workload
+## 📁 What's Inside
+
+| Section | Description |
+|--------|-------------|
+| [🧠 Intro to AI](./intro-to-ai.md) | Key concepts and how I understand AI's role in business |
+| [🛠️ AI Tools I'm Exploring](./ai-tools.md) | Curated list of AI tools, tagged by skill level and who they're for |
+| [🤖 AI Agents Overview](./ai-agents.md) | What AI agents are, how they work, and business use cases |
+| [📂 Use Case: AI in Client Onboarding](./ai-in-client-onboarding.md) | Example of how AI could improve onboarding processes (more to come) |
 
 ---
 
-### 🧪 No-Code Projects
-- [Chatbot Demo](no-code-projects/chatbot-demo-summary.md) – A quick conversational agent using no-code tools
-- [Document Parser Test](no-code-projects/document-parser-experiment.md) – Extracting data from docs without code
+## 🎯 Goals
+
+- Build familiarity with real tools (not just theory)
+- Understand how AI affects roles like mine — in fintech, sales, and ops
+- Share a clear, practical AI learning journey that others like me can use
 
 ---
 
-### 🤖 Custom GPTs
-- [GPT for Onboarding Help](custom-gpts/my-onboarding-gpt.md) – A GPT trained to support client-facing teams
-- [GPT for Client Emails](custom-gpts/gpt-for-client-emails.md) – Drafting faster responses using AI
+## 🗂️ In Progress
+
+- Adding more use cases (e.g. AI in reporting, AI for compliance)
+- Trying low-code agent builders
+- Exploring prompt engineering without coding
 
 ---
 
-### 📚 Resources
-- [Useful Links](resources/links.md) – Articles, tools, and thought leadership
-- [Videos & Tutorials](resources/videos.md) – Summaries and recommendations
+> _"You don’t need to be a developer to think like a builder."_
 
 ---
 
-## 👋 Get in Touch
+## ⭐️ Connect
 
-If you're exploring AI in a non-technical role—or you're in fintech and want to collaborate—feel free to reach out or follow along!
+If you're exploring the same space or have tool suggestions, feel free to connect or fork the repo. Always up for learning from others working at the edge of AI and business.
 
-> _“The best way to learn is by building—and that includes no-code.”_
