@@ -6,8 +6,3 @@ This is not a coding-focused repository—rather, it's a curated mix of:
 - 📚 AI tools & resources
 - 💡 Fintech use cases
 - 🔧 No-code projects
-
-## Contents
-- [`resources/`](resources/) – AI tools and guides
-- [`use-cases/`](use-cases/) – Business applications of AI in fintech
-- [`no-code-projects/`](no-code-projects/) – Low/no-code AI experiments
