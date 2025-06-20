@@ -6,3 +6,10 @@ This is not a coding-focused repository—rather, it's a curated mix of:
 - 📚 AI tools & resources
 - 💡 Fintech use cases
 - 🔧 No-code projects
+
+## Contents
+
+- [AI Tools for Fintech](ai-in-fintech-tools.md)
+- [AI in Client Onboarding](ai-in-client-onboarding.md)
+- [No-Code Chatbot Demo](chatbot-demo-summary.md)
+
