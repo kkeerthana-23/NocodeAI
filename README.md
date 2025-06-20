@@ -28,6 +28,15 @@ I’m an account manager in fintech, and this repo is where I:
 - Share a clear, practical AI learning journey that others like me can use
 
 ---
+## 🌐 Projects I've Built
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| 💜 AI Portfolio Website | Built with [Loveable](https://lovelace.studio/) – a no-code AI site builder. Exported and hosted on GitHub Pages. | [🔗 Loveable Version](https://quarterlife-life-compass.lovable.app/)) · [📁 GitHub Repo](https://github.com/kkeerthana-23/quarterlife-life-compass)) 
+
+
+
+
 
 ## 🗂️ In Progress
 
