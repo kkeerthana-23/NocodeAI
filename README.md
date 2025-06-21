@@ -19,7 +19,37 @@ I’m an account manager in fintech, and this repo is where I:
 | [🤖 AI Agents Overview](./ai-agents.md) | What AI agents are, how they work, and business use cases |
 | [📂 Use Case: AI in Client Onboarding](./ai-in-client-onboarding.md) | Example of how AI could improve onboarding processes (more to come) |
 
+## 📦 What's Inside
+
+### 🧠 Key Concepts & Definitions
+
+- **LLM (Large Language Model)**  
+  A type of AI model trained on vast amounts of text data that can understand, generate, and summarize human language. Examples include GPT-4, Claude, and Gemini.
+
+- **MCP (Model-Chain-Prompt)**  
+  A simple framework for thinking about how AI applications are structured:  
+  - **Model:** The brain (e.g., GPT-4)  
+  - **Chain:** The logic/workflow connecting multiple steps  
+  - **Prompt:** The instruction or input given to the model
+
+- **Prompt Engineering**  
+  The practice of crafting high-quality inputs (prompts) to get better outputs from language models.
+
+- **AI Agent**  
+  A system that uses an LLM (or multiple tools) to perform tasks autonomously based on goals, memory, and feedback.
+
+- **RAG (Retrieval-Augmented Generation)**  
+  A technique where the AI fetches external data (like documents or websites) and combines it with its model knowledge to answer more accurately.
+
+- **No-Code AI Tools**  
+  Platforms that let non-technical users build AI-powered solutions without writing code. Examples: Zapier, Softr, Lovable, and Airtable.
+
+- **Use Case**  
+  A specific scenario where AI can be applied to solve a real-world problem, like automating customer onboarding or summarizing legal contracts.
+
 ---
+
+
 
 ## 🎯 Goals
 
@@ -33,7 +63,6 @@ I’m an account manager in fintech, and this repo is where I:
 | Project | Description | Links |
 |---------|-------------|-------|
 | 💜 AI Portfolio Website | Built with [Loveable](https://lovelace.studio/) – a no-code AI site builder. Exported and hosted on GitHub Pages. | [🔗 Loveable Version](https://quarterlife-life-compass.lovable.app/)) · [📁 GitHub Repo](https://github.com/kkeerthana-23/quarterlife-life-compass)) 
-
 
 
 
