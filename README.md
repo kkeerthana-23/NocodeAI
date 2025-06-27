@@ -64,6 +64,8 @@ I’m an account manager in fintech, and this repo is where I:
 |---------|-------------|-------|
 | 💜 AI Portfolio Website | Built with [Loveable](https://lovelace.studio/) – a no-code AI site builder. Exported and hosted on GitHub Pages. | [🔗 Loveable Version](https://quarterlife-life-compass.lovable.app/)) · [📁 GitHub Repo](https://github.com/kkeerthana-23/quarterlife-life-compass)) 
 
+My first , basic agent : https://run.relay.app/shared/linkedin-competition-tracker-j6sK1Wj6ucci
+
 
 
 
