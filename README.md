@@ -17,8 +17,7 @@ I’m an account manager in fintech, and this repo is where I:
 | [🧠 Intro to AI](./intro-to-ai.md) | Key concepts and how I understand AI's role in business |
 | [🛠️ AI Tools I'm Exploring](./ai-tools.md) | Curated list of AI tools, tagged by skill level and who they're for |
 | [🤖 AI Agents Overview](./ai-agents.md) | What AI agents are, how they work, and business use cases |
-| | 💌 Email Automation with Zapier | No-code automation for personalized client follow-ups using Google Sheets, Gmail & Zapier. | [📄 View Project](smart-assitant) |
- |
+|| 💌 Smart Email Assistant | No-code automation for personalized client follow-ups using Google Sheets, Gmail & Zapier. | [📄 View Project](smart-email-assistant.md) |
 
 ## 📦 What's Inside
 
