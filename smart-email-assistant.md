@@ -3,6 +3,10 @@
 ## Overview
 This project automates personalized client emails using no-code tools. It helps streamline communication by sending tailored emails based on meeting and client data logged in Google Sheets.
 
+#Problem
+Every client interaction has a similar workflow with similar emails being sent. The small differences are client interests and followups. So with this agent, when we add new rows with tailored comments, an email will be sent to the client. 
+
+
 ## Tools Used
 - **Zapier** — Automation platform to connect apps and automate workflows  
 - **Google Sheets** — Acts as the data source and trigger for new client info  
