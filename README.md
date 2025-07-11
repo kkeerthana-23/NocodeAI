@@ -63,7 +63,7 @@ I’m an account manager in fintech, and this repo is where I:
 |---------|-------------|-------|
 | 💜 AI Portfolio Website | Built with [Loveable](https://lovelace.studio/) – a no-code AI site builder. Exported and hosted on GitHub Pages. | [🔗 Loveable Version](https://quarterlife-life-compass.lovable.app/) · [📁 GitHub Repo](https://github.com/kkeerthana-23/quarterlife-life-compass) |
 | 🤖 LinkedIn Competition Tracker Agent | My first basic AI agent built on [Relay](https://www.relay.app/) to track competitors on LinkedIn automatically. | [▶️ Try the Agent](https://run.relay.app/shared/linkedin-competition-tracker-j6sK1Wj6ucci) |
-|Smart Email assistant for account managers| 💌 Smart Email Assistant | No-code automation for personalized client follow-ups using Google Sheets, Gmail & Zapier. | [📄 View Project](smart-email-assistant.md) |
+|Smart Email assistant for account managers| 💌 Smart Email Assistant -  No-code automation for personalized client follow-ups using Google Sheets, Gmail & Zapier. | [📄 View Project](smart-email-assistant.md) |
 
 
 
