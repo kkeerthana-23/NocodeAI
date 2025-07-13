@@ -2,7 +2,7 @@
 
 This project automates the process of tracking and summarizing news and competitor mentions.
 
-My version : | 🤖 Automated Outreach Email Zap | Sends personalized competitor updates from Airtable to clients via Gmail. | [🔗 View Zap](https://zapier.com/shared/a276bd7ba5e3c1cd986205f54cfcfa0cb0c51210) |
+My version : ](https://zapier.com/shared/a276bd7ba5e3c1cd986205f54cfcfa0cb0c51210) |
 
 
 ## 🎯 What It Does
