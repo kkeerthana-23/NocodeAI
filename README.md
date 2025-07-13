@@ -18,9 +18,9 @@ I’m an account manager in fintech, and this repo is where I:
 | [🛠️ AI Tools I'm Exploring](./ai-tools.md) | Curated list of AI tools, tagged by skill level and who they're for |
 | [🤖 AI Agents Overview](./ai-agents.md) | What AI agents are, how they work, and business use cases |
 
-## 📦 What's Inside
+---
 
-### 🧠 Key Concepts & Definitions
+## 🧠 Key Concepts & Definitions
 
 - **LLM (Large Language Model)**  
   A type of AI model trained on vast amounts of text data that can understand, generate, and summarize human language. Examples include GPT-4, Claude, and Gemini.
@@ -48,8 +48,6 @@ I’m an account manager in fintech, and this repo is where I:
 
 ---
 
-
-
 ## 🎯 Goals
 
 - Build familiarity with real tools (not just theory)
@@ -57,24 +55,22 @@ I’m an account manager in fintech, and this repo is where I:
 - Share a clear, practical AI learning journey that others like me can use
 
 ---
+
 ## 🌐 Projects I've Built
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| 💜 AI Portfolio Website | Built with [Loveable](https://lovelace.studio/) – a no-code AI site builder. Exported and hosted on GitHub Pages. | [🔗 Loveable Version](https://quarterlife-life-compass.lovable.app/) · [📁 GitHub Repo](https://github.com/kkeerthana-23/quarterlife-life-compass) |
-| 🤖 LinkedIn Competition Tracker Agent | My first basic AI agent built on [Relay](https://www.relay.app/) to track competitors on LinkedIn automatically. | [▶️ Try the Agent](https://run.relay.app/shared/linkedin-competition-tracker-j6sK1Wj6ucci) |
-|Smart Email assistant for account managers| 💌 Smart Email Assistant -  No-code automation for personalized client follow-ups using Google Sheets, Gmail & Zapier. | [📄 View Project](smart-email-assistant.md) |
+| 💜 AI Portfolio Website | Built using [Loveable](https://lovelace.studio/), a no-code AI site builder. Exported and hosted on GitHub Pages. | [🔗 Website](https://quarterlife-life-compass.lovable.app/) · [📁 GitHub](https://github.com/kkeerthana-23/quarterlife-life-compass) |
+| 🤖 LinkedIn Competition Tracker Agent | My first AI agent built with [Relay](https://relay.app), tracking LinkedIn competitor activity. | [▶️ Try Agent](https://run.relay.app/shared/linkedin-competition-tracker-j6sK1Wj6ucci) |
+| ✉️ Smart Email Assistant | A no-code automation for personalized client emails using Google Sheets, Gmail & Zapier. | [📄 View Project](smart-email-assistant.md) |
 
-
-
-
-
+---
 
 ## 🗂️ In Progress
 
-- Adding more use cases (e.g. AI in reporting, AI for compliance)
+- Adding more use cases (e.g., AI in reporting, AI for compliance)
 - Trying low-code agent builders
-- Exploring prompt engineering without coding
+- Exploring prompt engineering
 
 ---
 
@@ -85,4 +81,3 @@ I’m an account manager in fintech, and this repo is where I:
 ## ⭐️ Connect
 
 If you're exploring the same space or have tool suggestions, feel free to connect or fork the repo. Always up for learning from others working at the edge of AI and business.
-
