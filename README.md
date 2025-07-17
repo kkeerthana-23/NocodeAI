@@ -18,6 +18,7 @@ I’m an account manager in fintech, and this repo is where I:
 | [🛠️ AI Tools I'm Exploring](./ai-tools.md) | Curated list of AI tools, tagged by skill level and who they're for |
 | [🤖 AI Agents Overview](./ai-agents.md) | What AI agents are, how they work, and business use cases |
 
+
 ---
 
 ## 🧠 Key Concepts & Definitions
@@ -64,6 +65,7 @@ I’m an account manager in fintech, and this repo is where I:
 | 🤖 LinkedIn Competition Tracker Agent | My first AI agent built with [Relay](https://relay.app), tracking LinkedIn competitor activity. | [▶️ Try Agent](https://run.relay.app/shared/linkedin-competition-tracker-j6sK1Wj6ucci) |
 | ✉️ Smart Email Assistant | A no-code automation for personalized client emails using Google Sheets, Gmail & Zapier. | [📄 View Project](smart-email-assistant.md) |
 | 📰 AI-Powered News & Insights Pipeline | A no-code workflow combining RSS feeds, Airtable, Zapier, and AI summarization to track and summarize competitor mentions automatically. | [📄 View Project](./ai-news-pipeline.md) |
+| ✨ Figma + Supabase App | Designed an AI-powered client insights dashboard in **Figma Make**, with **Supabase** as the backend database to store and retrieve dynamic content. This project demonstrates how design and modern databases can work together for rapid prototyping. | [🎨 Figma Prototype](YOUR_FIGMA_LINK) · [🌐 Supabase](https://supabase.com/) | [📄 View Project]() |
 
 
 ---
