@@ -1,1 +1,25 @@
+# ✨ Figma + Supabase Client Insights App
+
+This is a prototype of a lightweight client insights dashboard built using [Figma Make](https://www.figma.com/) and connected to [Supabase](https://supabase.com/) as the backend database.
+
+## 🛠️ Tools Used
+- **Figma Make**: For frontend UI/UX design and prototyping
+- **Supabase**: Open-source backend as a service (BaaS) to store and retrieve structured data
+
+## 📊 Features
+- Browse client profiles and AI-generated insights
+- Dynamic updates via Supabase tables
+- Clean, minimal design with a focus on readability
+
+## 🔗 Links
+- [🎨 Figma Prototype](YOUR_FIGMA_LINK)
+- [🌐 Supabase Dashboard](YOUR_SUPABASE_LINK if public)
+
+## 🖼️ Preview
+
+![screenshot](./assets/screenshot.png)
+
+---
+
+> This project is part of my AI learning journey — blending design, data, and automation.
 
