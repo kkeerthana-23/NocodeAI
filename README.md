@@ -61,7 +61,6 @@ I’m an account manager in fintech, and this repo is where I:
 
 | Project | Description | Links |
 |---------|-------------|-------|
-
 | ✨ Figma + Supabase App | An AI-powered client insights dashboard designed in **Figma Make**, connected to a **Supabase** backend. Combines modern UI design with structured data for rapid prototyping. | [🎨 Figma Prototype](https://www.figma.com/make/mA8JeiVLMoRljIuq42HlHi/Life-Planning-App-for-Young-Adults?node-id=0-1&p=f&t=8kEzwDJKFfe3Bnum-0&fullscreen=1) |
 
 | 💜 Quarterlifecrisis | Built using [Loveable](https://lovelace.studio/), a no-code AI site builder. Exported and hosted on GitHub Pages. | [🔗 Website](https://quarterlife-life-compass.lovable.app/) · [📁 GitHub](https://github.com/kkeerthana-23/quarterlife-life-compass) |
