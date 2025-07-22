@@ -1,4 +1,4 @@
-# LinkedIn Profile Tracker – No-Code AI Agent
+# LinkedIn Profile Tracker
 
 Track activity from any public LinkedIn profile — automatically.
 
@@ -32,17 +32,6 @@ This AI agent monitors a specific LinkedIn user or company’s public posts and 
 - Relay – for setting up the AI agent
 - LinkedIn (public profiles) – as the data source
 - GPT-4 – for summarization and content cleanup
-
----
-
-## Visual Demo
-
-| Input | Agent Setup | Output |
-|-------|-------------|--------|
-| ![Input](./Input.png) | ![Relay Setup](./Relaysetup.png) | ![Output](./Output.png) |
-
-Or see a quick GIF of the workflow:  
-![GIF Demo](./linkedin-tracker.gif)
 
 ---
 
