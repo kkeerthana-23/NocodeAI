@@ -27,7 +27,7 @@ This AI agent monitors a specific LinkedIn user or company’s public posts and 
 
 ---
 
-## Tools Used
+## Tech Stack
 
 - Relay – for setting up the AI agent
 - LinkedIn (public profiles) – as the data source
