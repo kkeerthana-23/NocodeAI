@@ -61,7 +61,7 @@ I’m an account manager in fintech, and this repo is where I:
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| ✨ Figma + Supabase App | An AI-powered client insights dashboard designed in **Figma Make**, connected to a **Supabase** backend. Combines modern UI design with structured data for rapid prototyping. | [🎨 Figma Prototype](https://www.figma.com/make/mA8JeiVLMoRljIuq42HlHi/Life-Planning-App-for-Young-Adults?node-id=0-1&p=f&t=8kEzwDJKFfe3Bnum-0&fullscreen=1) |
+| ✨ My Life Plan | Figma & Supabase used to create a website whihc helps to manage each aspect of your life. The only app you need| [🎨 Figma Prototype](https://www.figma.com/make/mA8JeiVLMoRljIuq42HlHi/Life-Planning-App-for-Young-Adults?node-id=0-1&p=f&t=8kEzwDJKFfe3Bnum-0&fullscreen=1) |
 | AI Productivity Chatbot (Landbot) | An interactive AI assistant built with Landbot that provides professionals with tailored AI tools and workflow recommendations based on their role and job function. Uses smart prompts to generate relevant, actionable summaries. | [Try it Live](https://landbot.online/v3/H-3047788-TARX7QMHB81NU05P/index.html) |
 | ✨ Figma + Supabase App | Marketplace connecting wisdom to Gen-Z designed in **Figma Make**, connected to a **Supabase** backend. Combines modern UI design with structured data for rapid prototyping. | [🎨 Figma Prototype](https://www.figma.com/make/cmgpcPuUB95a0MtyQkOyZk/Singapore-Skills-Marketplace-App?fullscreen=1) |
 | 💜 Quarterlifecrisis | Built using [Loveable](https://lovelace.studio/), a no-code AI site builder. Exported and hosted on GitHub Pages. | [🔗 Website](https://quarterlife-life-compass.lovable.app/) · [📁 GitHub](https://github.com/kkeerthana-23/quarterlife-life-compass) |
