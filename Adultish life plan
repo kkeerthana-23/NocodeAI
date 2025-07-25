@@ -1,0 +1,89 @@
+
+# 🧭 Life Planning App for Young Adults
+
+A personal planning tool designed in **Figma Make**, supported by a **Supabase** backend. This app helps young adults organize their long-term goals, clarify priorities, and structure their next steps — all within a clean, focused dashboard experience.
+
+---
+
+## 📌 Features
+
+### 🗺️ Life Areas Dashboard
+
+An interactive dashboard that breaks down a user’s life into key areas:
+
+* Career
+* Learning
+* Relationships
+* Finances
+* Health
+* Lifestyle
+
+Users can quickly assess and input their priorities for each area.
+
+---
+
+### ✅ Goal Tracker
+
+For every life area, users can set:
+
+* Primary Goals
+* Timeframe (short-term, long-term)
+* Progress status
+  This gives a structured view of what they’re working toward and how goals align across areas.
+
+---
+
+### 📋 Task Breakdown
+
+Within each goal, users can list smaller steps and actions:
+
+* Sub-tasks with checkboxes
+* Linked to relevant resources
+* Designed for accountability and clarity
+
+---
+
+### 📂 Supabase Integration (Database Structure)
+
+Although this is a design prototype, a backend structure was created using **Supabase** to simulate:
+
+* User profiles
+* Goals and tasks
+* Goal completion status
+  This enables scalability and potential transition to a working MVP.
+
+---
+
+### 🎨 Design Highlights
+
+* Mobile-first design using **Figma Make**
+* Clean typography and minimal layout
+* Color-coded life categories for clarity
+* Reusable component structure for scalability
+
+---
+
+## 📎 Links
+
+* 🎨 [Figma Prototype (View-only)](https://www.figma.com/make/mA8JeiVLMoRljIuq42HlHi/Life-Planning-App-for-Young-Adults?node-id=0-1&p=f&t=8kEzwDJKFfe3Bnum-0&fullscreen=1)
+* 📁 [GitHub Repo](https://github.com/kkeerthana-23/NocodeAI)
+
+---
+
+## 🛠 Tech Stack
+
+| Tool           | Purpose                           |
+| -------------- | --------------------------------- |
+| **Figma Make** | UI/UX design and prototyping      |
+| **Supabase**   | Backend database and structure    |
+| **GitHub**     | Version control and documentation |
+
+---
+
+## 🚀 Roadmap
+
+* [ ] Convert Figma design to a Framer or Flutter MVP
+* [ ] Connect Supabase for real-time data updates
+* [ ] Add user authentication
+* [ ] Enable goal tracking and completion analytics
+
