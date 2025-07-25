@@ -1,0 +1,108 @@
+import { useState, useEffect } from 'react';
+import { SidebarProvider } from './components/ui/sidebar';
+import { Navigation } from './components/Navigation';
+import { Dashboard } from './components/Dashboard';
+import { HabitTracker } from './components/HabitTracker';
+import { FitnessTracker } from './components/FitnessTracker';
+import { RelationshipTracker } from './components/RelationshipTracker';
+import { PassionProjects } from './components/PassionProjects';
+import { Goals } from './components/Goals';
+import { MoodTracker } from './components/MoodTracker';
+import { CustomTracker } from './components/CustomTracker';
+import { Auth } from './components/Auth';
+import { Toaster } from 'sonner';
+import { auth } from './utils/api';
+import { Loader2 } from 'lucide-react';
+
+export default function App() {
+  const [activeSection, setActiveSection] = useState('dashboard');
+  const [session, setSession] = useState<any>(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    // Check for existing session
+    const checkSession = async () => {
+      const { session } = await auth.getSession();
+      setSession(session);
+      setLoading(false);
+    };
+
+    checkSession();
+
+    // Listen for auth changes
+    const { data: { subscription } } = auth.onAuthStateChange((session) => {
+      setSession(session);
+      setLoading(false);
+    });
+
+    return () => subscription.unsubscribe();
+  }, []);
+
+  const handleSignOut = async () => {
+    await auth.signOut();
+    setSession(null);
+    setActiveSection('dashboard');
+  };
+
+  const renderActiveSection = () => {
+    switch (activeSection) {
+      case 'dashboard':
+        return <Dashboard />;
+      case 'habits':
+        return <HabitTracker />;
+      case 'fitness':
+        return <FitnessTracker />;
+      case 'relationships':
+        return <RelationshipTracker />;
+      case 'projects':
+        return <PassionProjects />;
+      case 'goals':
+        return <Goals />;
+      case 'mood':
+        return <MoodTracker />;
+      case 'custom':
+        return <CustomTracker />;
+      default:
+        return <Dashboard />;
+    }
+  };
+
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-background flex items-center justify-center">
+        <div className="bg-card border rounded-lg p-8 flex items-center gap-3">
+          <Loader2 className="w-6 h-6 animate-spin text-primary" />
+          <span className="text-card-foreground">Loading LifePlan...</span>
+        </div>
+      </div>
+    );
+  }
+
+  if (!session) {
+    return (
+      <>
+        <Auth onAuthSuccess={() => setLoading(true)} />
+        <Toaster />
+      </>
+    );
+  }
+
+  return (
+    <SidebarProvider>
+      <div className="flex min-h-screen bg-background">
+        <Navigation 
+          activeSection={activeSection} 
+          onSectionChange={setActiveSection}
+          onSignOut={handleSignOut}
+          userEmail={session.user?.email}
+        />
+        <main className="flex-1 p-6 overflow-auto">
+          <div className="max-w-7xl mx-auto">
+            {renderActiveSection()}
+          </div>
+        </main>
+        <Toaster />
+      </div>
+    </SidebarProvider>
+  );
+}
